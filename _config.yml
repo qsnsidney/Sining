@@ -1,21 +1,7 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-title: Sining Qin's Blog
+title: "Sining Qin's Blog"
 
-# Your Name
-author: Sining Qin
-
-# Short description (goes below the title; it will also be used in the RSS feed)
-# description: 
-
-# Your email if you want it to be linked on the contact page
-# author_email: sining.qin@mail.utoronto.ca
-
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
-#
-# Flags below are optional
-#
+timezone: Canada/Toronto
 
 # Includes an icon in the footer for each username you enter
 #footer-links:
