@@ -1,8 +1,8 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-#title: "Sining Qin's Blog"
-#name: "Sining Qin"
+# title: "Sining Qin's Blog"
+# name: "Sining Qin"
 
-timezone: America/Toronto
+# timezone: America/Toronto
 
 # Includes an icon in the footer for each username you enter
 #footer-links:
