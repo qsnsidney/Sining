@@ -1,7 +1,8 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-# title: "Sining Qin's Blog"
+title: "Sining Qin's Blog"
+name: "Sining Qin"
 
-#timezone: Canada/Toronto
+timezone: America/Toronto
 
 # Includes an icon in the footer for each username you enter
 #footer-links:
@@ -41,7 +42,7 @@ url: http://qsnsidney.github.io
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /:categories/:title/
 
 # Use the following plug-ins
 gems:
