@@ -33,12 +33,14 @@
     text-decoration: underline;
 }
 
-h3 {
-    color: blue;
+
+.li {
+    text-decoration: none;
+    color: black;
 }
 
-.lin {
-    text-decoration: none;
+.footer {
+    padding-top: 50px;
 }
 
 .contact a {
