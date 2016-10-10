@@ -1,5 +1,5 @@
 .h1 a:link, a:visited {
-    background-color: #f44336;
+    background-color: blue;
     color: white;
     padding: 14px 25px;
     text-align: center;
@@ -9,28 +9,36 @@
 
 
 .h1 a:hover, a:active {
-    background-color: red;
+    background-color: lightblue;
 }
 
 .h2 a:link {
-	color: red;
+	color: blue;
     text-decoration: none;
     padding: 17px 25px;
 }
 
 .h2 a:visited {
-	color: #f44336;
+	color: blue;
     text-decoration: none;
 }
 
 .h2 a:hover {
-	color: red;
+	color: lightblue;
     text-decoration: underline;
 }
 
 .h2 a:active {
-	color: red;
+	color: lightblue;
     text-decoration: underline;
+}
+
+h3 {
+    color: blue;
+}
+
+.lin {
+    text-decoration: none;
 }
 
 .contact a {
