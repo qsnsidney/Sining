@@ -1,9 +1,9 @@
-h1 {text-align: center; 
+h1 {padding-left: 300px;
 	padding-top: 40px;
 	padding-bottom: 75px;
 	font-family: "Times New Roman", Times, serif;
 	color: lightblue;
-	font-size: 45px;
+	font-size: 50px;
 }
 
 .container {
@@ -12,7 +12,7 @@ h1 {text-align: center;
 
 .left {
 	float: left;
-	padding-left: 20px;
+	padding-left: 30px;
 }
 
 .right {
@@ -29,7 +29,7 @@ h2 a {
 ul {
 	position: relative;
 	left: 20px;
-	top: 10px;
+	top: 8px;
 	bottom: 15px;
 }
 
