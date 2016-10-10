@@ -1,0 +1,39 @@
+.h1 a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+.h1 a:hover, a:active {
+    background-color: red;
+}
+
+.h2 a:link {
+	color: red;
+    text-decoration: none;
+    padding: 14px 25px;
+}
+
+.h2 a:visited {
+	color: #f44336;
+    text-decoration: none;
+}
+
+.h2 a:hover {
+	color: red;
+    text-decoration: underline;
+}
+
+.h2 a:active {
+	color: red;
+    text-decoration: underline;
+}
+
+.contact a {
+	text-decoration: none;
+	color: grey;
+}
