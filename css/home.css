@@ -16,8 +16,8 @@ h1 {text-align: center;
 }
 
 .right {
-	position: relative;
-	padding-left: 20px;
+	float: left;
+	padding-right: 20px;
 }
 
 
