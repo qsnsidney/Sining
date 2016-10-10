@@ -1,8 +1,9 @@
 h1 {text-align: center; 
-	padding-top: 50px;
+	padding-top: 40px;
 	padding-bottom: 75px;
 	font-family: "Times New Roman", Times, serif;
 	color: lightblue;
+	font-size: 45px;
 }
 
 .container {
@@ -15,8 +16,8 @@ h1 {text-align: center;
 }
 
 .right {
-	float: right;
-	padding-right: 20px;
+	position: relative;
+	padding-left: 20px;
 }
 
 
