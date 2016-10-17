@@ -42,7 +42,6 @@
 .contact a:link {
     color: grey;
     text-decoration: none;
-    padding: 17px 25px;
 }
 
 .contact a:visited {
@@ -63,7 +62,6 @@
 .oh a:link {
     color: grey;
     text-decoration: none;
-    padding: 17px 25px;
 }
 
 .oh a:visited {
