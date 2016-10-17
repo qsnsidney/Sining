@@ -39,12 +39,44 @@
     padding-top: 50px;
 }
 
-.contact a {
-	text-decoration: none;
-	color: grey;
-}
-
-.oh a {
+.contact a:link {
     color: grey;
     text-decoration: none;
+    padding: 17px 25px;
+}
+
+.contact a:visited {
+    color: grey;
+    text-decoration: none;
+}
+
+.contact a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.contact a:active {
+    color: black;
+    text-decoration: underline;
+}
+
+.oh a:link {
+    color: grey;
+    text-decoration: none;
+    padding: 17px 25px;
+}
+
+.oh a:visited {
+    color: grey;
+    text-decoration: none;
+}
+
+.oh a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.oh a:active {
+    color: black;
+    text-decoration: underline;
 }
