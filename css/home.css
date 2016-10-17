@@ -22,10 +22,20 @@ h1 {
 }
 
 
-h2 a {
-	text-decoration: none;
-	color: blue;
+h2 a:link, a:visited {
+    background-color: blue;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
 }
+
+
+h2 a:hover, a:active {
+    background-color: lightblue;
+}
+
 
 ul {
 	position: relative;
@@ -34,7 +44,16 @@ ul {
 	bottom: 15px;
 }
 
-.contact a {
-	text-decoration: none;
-	color: grey;
+.contact a:link, a:visited {
+    background-color: grey;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+h2 a:hover, a:active {
+    background-color: black;
 }
